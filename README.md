@@ -1,3 +1,7 @@
+### Instructions for running the scripts:
+The scripts (plot1.R, plot2.R, plot3.R and plot4.R all take as a function argument, the path to the data file. 
+The output (png files) is saved in the working directory as plot1.png, plot2.png, plot3.png, and plot4.png respectively.
+
 ## Introduction
 
 This assignment uses data from
